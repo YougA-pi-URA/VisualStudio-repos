@@ -1,0 +1,7 @@
+C:\Git Terminal\YougA-pi-URA\VisualStudio-repos\CSharpPractice\StandardCode\bin\Debug\StandardCode.exe.config
+C:\Git Terminal\YougA-pi-URA\VisualStudio-repos\CSharpPractice\StandardCode\bin\Debug\StandardCode.exe
+C:\Git Terminal\YougA-pi-URA\VisualStudio-repos\CSharpPractice\StandardCode\bin\Debug\StandardCode.pdb
+C:\Git Terminal\YougA-pi-URA\VisualStudio-repos\CSharpPractice\StandardCode\obj\Debug\StandardCode.csprojAssemblyReference.cache
+C:\Git Terminal\YougA-pi-URA\VisualStudio-repos\CSharpPractice\StandardCode\obj\Debug\StandardCode.csproj.CoreCompileInputs.cache
+C:\Git Terminal\YougA-pi-URA\VisualStudio-repos\CSharpPractice\StandardCode\obj\Debug\StandardCode.exe
+C:\Git Terminal\YougA-pi-URA\VisualStudio-repos\CSharpPractice\StandardCode\obj\Debug\StandardCode.pdb
